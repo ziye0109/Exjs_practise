@@ -1,0 +1,9 @@
+{
+  "name": "rxjs_practise",
+  "version": "1.0.0",
+  "description": "my own implementation",
+  "main": "index.js",
+  "repository": "https://github.com/ziye0109/Exjs_practise",
+  "author": "ziye",
+  "license": "MIT"
+}
